@@ -140,11 +140,11 @@ python scheduler.py
 
 ## Key Features
 
-✅ Fully autonomous loop (Trigger → LLM → Evaluate → Advance)
-✅ Modular & extensible code
-✅ Prompt-engineered LLM interaction (GLM-4.5-Air, free model)
-✅ Clear, structured daily feedback for continuous learning
-✅ Runs for 24+ hours without manual intervention
+- Fully autonomous loop (Trigger → LLM → Evaluate → Advance)
+- Modular & extensible code
+- Prompt-engineered LLM interaction (GLM-4.5-Air, free model)
+- Clear, structured daily feedback for continuous learning
+- Runs for 24+ hours without manual intervention
 
 ---
 
