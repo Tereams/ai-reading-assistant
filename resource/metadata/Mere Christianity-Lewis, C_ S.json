@@ -1,0 +1,108 @@
+{
+  "has_plan": true,
+  "current_page": 0,
+  "current_chapter_plan": [
+    0,
+    0
+  ],
+  "total_page": 183,
+  "planed_date": 30,
+  "has_asked_llm": false,
+  "has_advanced": false,
+  "metadata": [
+    {
+      "title": "Foreword",
+      "start_page": 4,
+      "end_page": 6,
+      "page_count": 3,
+      "page_per_day": [
+        3
+      ]
+    },
+    {
+      "title": "Preface",
+      "start_page": 7,
+      "end_page": 13,
+      "page_count": 7,
+      "page_per_day": [
+        7
+      ]
+    },
+    {
+      "title": "Book 1. Right and Wrong as a Clue to the Meaning of the Universe",
+      "start_page": 14,
+      "end_page": 36,
+      "page_count": 23,
+      "page_per_day": [
+        6,
+        6,
+        6,
+        5
+      ]
+    },
+    {
+      "title": "Book 2. What Christians Believe",
+      "start_page": 37,
+      "end_page": 58,
+      "page_count": 22,
+      "page_per_day": [
+        6,
+        6,
+        5,
+        5
+      ]
+    },
+    {
+      "title": "Book 3. Christian Behaviour",
+      "start_page": 59,
+      "end_page": 115,
+      "page_count": 57,
+      "page_per_day": [
+        7,
+        7,
+        7,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "title": "Book 4. Beyond Personality: or First Steps in the Doctrine of the Trinity",
+      "start_page": 116,
+      "end_page": 167,
+      "page_count": 52,
+      "page_per_day": [
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        5,
+        5
+      ]
+    },
+    {
+      "title": "Also by C. S. Lewis",
+      "start_page": 169,
+      "end_page": 175,
+      "page_count": 7,
+      "page_per_day": [
+        7
+      ]
+    },
+    {
+      "title": "About the Publisher",
+      "start_page": 177,
+      "end_page": 188,
+      "page_count": 12,
+      "page_per_day": [
+        12
+      ]
+    }
+  ]
+}

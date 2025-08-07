@@ -1,0 +1,139 @@
+{
+  "has_plan": false,
+  "current_page": 0,
+  "current_chapter_plan": [
+    0,
+    0
+  ],
+  "total_page": 224,
+  "planed_date": -1,
+  "has_asked_llm": 0,
+  "metadata": [
+    {
+      "title": "Introduction",
+      "start_page": 4,
+      "end_page": 9,
+      "page_count": 6,
+      "page_per_day": null
+    },
+    {
+      "title": "I",
+      "start_page": 12,
+      "end_page": 28,
+      "page_count": 17,
+      "page_per_day": null
+    },
+    {
+      "title": "II",
+      "start_page": 29,
+      "end_page": 39,
+      "page_count": 11,
+      "page_per_day": null
+    },
+    {
+      "title": "III",
+      "start_page": 40,
+      "end_page": 56,
+      "page_count": 17,
+      "page_per_day": null
+    },
+    {
+      "title": "IV",
+      "start_page": 57,
+      "end_page": 64,
+      "page_count": 8,
+      "page_per_day": null
+    },
+    {
+      "title": "V",
+      "start_page": 65,
+      "end_page": 76,
+      "page_count": 12,
+      "page_per_day": null
+    },
+    {
+      "title": "VI",
+      "start_page": 77,
+      "end_page": 87,
+      "page_count": 11,
+      "page_per_day": null
+    },
+    {
+      "title": "VII",
+      "start_page": 88,
+      "end_page": 96,
+      "page_count": 9,
+      "page_per_day": null
+    },
+    {
+      "title": "VIII",
+      "start_page": 97,
+      "end_page": 106,
+      "page_count": 10,
+      "page_per_day": null
+    },
+    {
+      "title": "IX",
+      "start_page": 107,
+      "end_page": 121,
+      "page_count": 15,
+      "page_per_day": null
+    },
+    {
+      "title": "X",
+      "start_page": 122,
+      "end_page": 141,
+      "page_count": 20,
+      "page_per_day": null
+    },
+    {
+      "title": "XI",
+      "start_page": 142,
+      "end_page": 146,
+      "page_count": 5,
+      "page_per_day": null
+    },
+    {
+      "title": "XII",
+      "start_page": 147,
+      "end_page": 157,
+      "page_count": 11,
+      "page_per_day": null
+    },
+    {
+      "title": "XIII",
+      "start_page": 158,
+      "end_page": 174,
+      "page_count": 17,
+      "page_per_day": null
+    },
+    {
+      "title": "XIV",
+      "start_page": 175,
+      "end_page": 183,
+      "page_count": 9,
+      "page_per_day": null
+    },
+    {
+      "title": "XV",
+      "start_page": 184,
+      "end_page": 195,
+      "page_count": 12,
+      "page_per_day": null
+    },
+    {
+      "title": "XVI",
+      "start_page": 196,
+      "end_page": 213,
+      "page_count": 18,
+      "page_per_day": null
+    },
+    {
+      "title": "XVII",
+      "start_page": 214,
+      "end_page": 221,
+      "page_count": 8,
+      "page_per_day": null
+    }
+  ]
+}

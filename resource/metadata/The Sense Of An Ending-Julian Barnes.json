@@ -1,0 +1,54 @@
+{
+  "has_plan": true,
+  "current_page": 0,
+  "total_page": 117,
+  "metadata": [
+    {
+      "title": "Chapter One",
+      "start_page": 6,
+      "end_page": 49,
+      "page_count": 44,
+      "page_per_day": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "title": "Chapter Two",
+      "start_page": 50,
+      "end_page": 122,
+      "page_count": 73,
+      "page_per_day": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        3,
+        3
+      ]
+    }
+  ],
+  "planed_date": 30
+}
