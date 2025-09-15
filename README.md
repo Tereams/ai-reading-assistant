@@ -146,9 +146,3 @@ python scheduler.py
 - Clear, structured daily feedback for continuous learning
 - Runs for 24+ hours without manual intervention
 
----
-
-## Acknowledgments
-
-This project was developed as part of the **AI Agent Internship Take-Home Assignment**.
-Big thanks to the reviewers — I hope this system reflects both my technical depth and product thinking.
